@@ -1,3 +1,4 @@
+.DS_Store
 .env
 ChatGPT.zip
 FN+.zip
@@ -5,3 +6,6 @@ lus.csv
 /ChatGPT
 /FN+
 /HF
+/ChatGPT - correct
+/OA
+.correct.csv

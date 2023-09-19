@@ -1,0 +1,250 @@
+{
+  "split-0": {
+    "318": [
+      "apodrecido",
+      "avariado",
+      "bolorento",
+      "corrompido",
+      "deteriorado",
+      "fedido",
+      "mofado",
+      "podre",
+      "putrefato",
+      "rançoso"
+    ],
+    "220": [
+      "cheio",
+      "vazio",
+      "plenitude",
+      "saturação",
+      "enchimento",
+      "lotado",
+      "repleto",
+      "esgotado",
+      "abundância",
+      "escassez"
+    ],
+    "46": [
+      "reação",
+      "sintoma",
+      "inflamação",
+      "irritação",
+      "desconforto",
+      "dificuldade respiratória",
+      "anafilaxia",
+      "intolerância",
+      "hipersensibilidade",
+      "resposta imunológica"
+    ],
+    "731": [
+      "escandaloso",
+      "indigno",
+      "repreensível",
+      "vergonhoso",
+      "lamentável",
+      "humilhante",
+      "desrespeitoso",
+      "imperdoável",
+      "inaceitável",
+      "degradante"
+    ],
+    "1015": [
+      "tendência",
+      "moderno",
+      "popular",
+      "descolado",
+      "queridinho",
+      "badalado",
+      "sucesso",
+      "em alta",
+      "requisitado",
+      "cobiçado"
+    ]
+  },
+  "split-1": {
+    "345": [
+      "árduo",
+      "complicado",
+      "difícil",
+      "desafiador",
+      "exigente",
+      "impossível",
+      "laborioso",
+      "penoso",
+      "árdua",
+      "trabalhoso"
+    ],
+    "1000": [
+      "enorme",
+      "pequeno",
+      "diminuto",
+      "gigante",
+      "microscópico",
+      "tamanho",
+      "imenso",
+      "grande",
+      "miúdo",
+      "minúsculo"
+    ],
+    "453": [
+      "bom",
+      "eficiente",
+      "excelente",
+      "ótimo",
+      "incrível",
+      "maravilhoso",
+      "valioso",
+      "perfeito",
+      "ideal",
+      "funcional"
+    ],
+    "838": [
+      "diversidade",
+      "variedade",
+      "heterogeneidade",
+      "multiforme",
+      "multiplicidade",
+      "pluralidade",
+      "assortimento",
+      "miscelânea",
+      "mistura",
+      "polimorfismo"
+    ],
+    "326": [
+      "impressionante",
+      "maravilhoso",
+      "ótimo",
+      "incrível",
+      "horrível",
+      "péssimo",
+      "fantástico",
+      "excelente",
+      "ruim",
+      "bom"
+    ]
+  },
+  "split-2": {
+    "882": [
+      "acolhedor",
+      "receptividade",
+      "convite",
+      "cortesia",
+      "amabilidade",
+      "bem-vindo",
+      "prestativo",
+      "amistoso",
+      "simpatia",
+      "acolhida"
+    ],
+    "959": [
+      "alto",
+      "baixo",
+      "estridente",
+      "silencioso",
+      "ensurdecedor",
+      "sussurrante",
+      "barulhento",
+      "mudo",
+      "abafado",
+      "estrepitoso"
+    ],
+    "685": [
+      "exercício",
+      "movimento",
+      "dinamismo",
+      "energia",
+      "atividade física",
+      "proatividade",
+      "ação",
+      "entusiasmo",
+      "engajamento",
+      "trabalho"
+    ],
+    "725": [
+      "Taxa de desemprego",
+      "Desempregados",
+      "Ocupação",
+      "Trabalho informal",
+      "Subemprego",
+      "Emprego formal",
+      "Busca por emprego",
+      "Treinamento profissional",
+      "Poupança de desemprego",
+      "Seguro-desemprego"
+    ],
+    "601": [
+      "afiado",
+      "cego",
+      "desbotado",
+      "áspero",
+      "embotado",
+      "fosco",
+      "fulo",
+      "rasgado",
+      "serrilhado",
+      "truncado"
+    ]
+  },
+  "split-3": {
+    "342": [
+      "agradável",
+      "altivo",
+      "atencioso",
+      "arrogante",
+      "cordato",
+      "discreto",
+      "egocêntrico",
+      "gentil",
+      "mesquinho",
+      "prestativo"
+    ],
+    "74": [
+      "hora a hora",
+      "semestral",
+      "anualizado",
+      "quadrimestral",
+      "esporádico",
+      "ritmado",
+      "cíclico",
+      "persistente",
+      "periódico",
+      "ininterrupto"
+    ],
+    "332": [
+      "afinidade",
+      "compatível",
+      "conciliável",
+      "adaptável",
+      "coexistência",
+      "sinergia",
+      "ajustável",
+      "complementar",
+      "harmonioso",
+      "amigável"
+    ],
+    "106": [
+      "cumprimento",
+      "desobediência",
+      "obediente",
+      "submissão",
+      "desacato",
+      "ilegalidade",
+      "transgressão",
+      "obediência",
+      "descumprimento",
+      "regularização"
+    ],
+    "125": [
+      "especialista",
+      "habilidade",
+      "competência",
+      "perito",
+      "proficiência",
+      "saber-fazer",
+      "aptidão",
+      "experiente",
+      "maestria",
+      "destreza"
+    ]
+  }
+}

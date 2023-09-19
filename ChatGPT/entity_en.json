@@ -1,0 +1,250 @@
+{
+  "split-0": {
+    "1426": [
+      "whisk",
+      "spatula",
+      "ladle",
+      "rolling pin",
+      "strainer",
+      "mixing bowl",
+      "cutting board",
+      "measuring cup",
+      "grater",
+      "peeler"
+    ],
+    "1431": [
+      "action figure",
+      "board game",
+      "building blocks",
+      "jigsaw puzzle",
+      "plushie",
+      "remote control car",
+      "stuffed animal",
+      "train set",
+      "video game",
+      "yo-yo"
+    ],
+    "1106": [
+      "ignition point",
+      "launch site",
+      "missile silo",
+      "remote detonation site",
+      "rocket pad",
+      "shooting range",
+      "target area",
+      "warhead deployment point",
+      "weapons bunker",
+      "ammunition depot"
+    ],
+    "1181": [
+      "fuel break",
+      "defensible space",
+      "fireguard",
+      "perimeter zone",
+      "fire plow",
+      "controlled burn",
+      "backfire line",
+      "fire barrier",
+      "vegetation clearing",
+      "fire trench"
+    ],
+    "1080": [
+      "innocent bystander",
+      "refugee",
+      "evacuee",
+      "victim",
+      "peacekeeper",
+      "neutral party",
+      "non-combatant personnel",
+      "non-military personnel",
+      "non-combatant civilian",
+      "non-combatant national"
+    ]
+  },
+  "split-1": {
+    "175": [
+      "constituency",
+      "region",
+      "department",
+      "prefecture",
+      "commune",
+      "ward",
+      "zone",
+      "union territory",
+      "dependent territory",
+      "sovereign base area"
+    ],
+    "524": [
+      "financial analyst",
+      "event planner",
+      "social worker",
+      "real estate agent",
+      "speech therapist",
+      "physical therapist",
+      "fashion designer",
+      "interior designer",
+      "graphic designer",
+      "web designer"
+    ],
+    "171": [
+      "plate tectonics",
+      "karst",
+      "geyser",
+      "lava tube",
+      "sinkhole",
+      "estuary",
+      "fen",
+      "meander",
+      "bight",
+      "backcountry"
+    ],
+    "1184": [
+      "gazelle",
+      "gorilla",
+      "hedgehog",
+      "iguana",
+      "jackal",
+      "llama",
+      "marmot",
+      "meerkat",
+      "platypus",
+      "quokka"
+    ],
+    "337": [
+      "bakery",
+      "brewery",
+      "catering service",
+      "coffee shop",
+      "food truck",
+      "hair salon",
+      "insurance company",
+      "law firm",
+      "marketing firm",
+      "printing shop"
+    ]
+  },
+  "split-2": {
+    "833": [
+      "provincial capital",
+      "state capital",
+      "regional center",
+      "federal district",
+      "overseas territory",
+      "autonomous region",
+      "crown dependency",
+      "special administrative region",
+      "prefecture",
+      "county town"
+    ],
+    "1128": [
+      "ghetto",
+      "barrio",
+      "favela",
+      "reservation",
+      "chinatown",
+      "little italy",
+      "jewish quarter",
+      "gated community",
+      "college town",
+      "retirement community"
+    ],
+    "960": [
+      "plot",
+      "holding",
+      "homestead",
+      "tenement",
+      "acreage",
+      "farmstead",
+      "manor",
+      "ranch",
+      "parcel",
+      "chattels"
+    ],
+    "656": [
+      "network",
+      "system",
+      "facility",
+      "platform",
+      "grid",
+      "backbone",
+      "framework",
+      "backbone",
+      "apparatus",
+      "structure"
+    ],
+    "545": [
+      "lodger",
+      "tenant",
+      "boarder",
+      "landlord",
+      "household",
+      "apartment dweller",
+      "homeowner",
+      "subletter",
+      "rooming house resident",
+      "co-habitant"
+    ]
+  },
+  "split-3": {
+    "1341": [
+      "swimmer",
+      "jogger",
+      "climber",
+      "gymnast",
+      "skier",
+      "snowboarder",
+      "surfer",
+      "skateboarder",
+      "yogi",
+      "figure skater"
+    ],
+    "169": [
+      "mezzanine",
+      "penthouse",
+      "dumbwaiter",
+      "piazza",
+      "atrium",
+      "fire escape",
+      "janitor's closet",
+      "mail room",
+      "storage unit",
+      "waiting room"
+    ],
+    "431": [
+      "License plate",
+      "ID card",
+      "Work permit",
+      "Property deed",
+      "Non-disclosure agreement",
+      "Power of attorney",
+      "Tax return",
+      "Medical records",
+      "Social Security card",
+      "Insurance policy"
+    ],
+    "176": [
+      "airport",
+      "sewer system",
+      "playground",
+      "gymnasium",
+      "conference center",
+      "fairground",
+      "lighthouse",
+      "observatory",
+      "airport terminal",
+      "marina"
+    ],
+    "493": [
+      "African",
+      "Asian",
+      "European",
+      "Middle Easterner",
+      "Scandinavian",
+      "Latino",
+      "Hispanic",
+      "Anglo-Saxon",
+      "Slavic",
+      "Mediterranean"
+    ]
+  }
+}

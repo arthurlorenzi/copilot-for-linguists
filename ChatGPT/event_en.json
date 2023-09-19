@@ -1,0 +1,250 @@
+{
+  "split-0": {
+    "265": [
+      "aim",
+      "reload",
+      "cock",
+      "holster",
+      "unholster",
+      "sight",
+      "trigger",
+      "bullet",
+      "gunshot",
+      "marksmanship"
+    ],
+    "207": [
+      "influence",
+      "manipulate",
+      "modify",
+      "change",
+      "impact",
+      "transform",
+      "harm",
+      "benefit",
+      "impress",
+      "control"
+    ],
+    "933": [
+      "show",
+      "designate",
+      "specify",
+      "denote",
+      "reveal",
+      "disclose",
+      "pinpoint",
+      "flag",
+      "highlight",
+      "signal"
+    ],
+    "786": [
+      "charter",
+      "hire",
+      "let",
+      "loan",
+      "sublease",
+      "sublet",
+      "surrender",
+      "temporarily transfer",
+      "use for a fee",
+      "utilize temporarily"
+    ],
+    "380": [
+      "collect",
+      "acquire",
+      "take delivery",
+      "obtain",
+      "inherit",
+      "get",
+      "gain",
+      "win",
+      "secure",
+      "snatch"
+    ]
+  },
+  "split-1": {
+    "234": [
+      "fabricate",
+      "develop",
+      "manufacture",
+      "compose",
+      "build up",
+      "create",
+      "formulate",
+      "organize",
+      "establish",
+      "put up"
+    ],
+    "372": [
+      "breakthrough",
+      "groundbreaking",
+      "novelty",
+      "debut",
+      "first-time",
+      "revolutionary",
+      "premiere",
+      "maiden",
+      "newcomer",
+      "trailblazer"
+    ],
+    "243": [
+      "sauteing",
+      "simmering",
+      "stewing",
+      "broiling",
+      "poaching",
+      "searing",
+      "marinating",
+      "braising",
+      "blanching",
+      "smoking"
+    ],
+    "253": [
+      "compose",
+      "scribble",
+      "inscribe",
+      "engrave",
+      "record",
+      "transcribe",
+      "draft up",
+      "put down",
+      "note down",
+      "put pen to paper"
+    ],
+    "238": [
+      "chew",
+      "savor",
+      "taste",
+      "bite",
+      "sniff",
+      "feast on",
+      "wolf down",
+      "nosh on",
+      "gulp down",
+      "chug"
+    ]
+  },
+  "split-2": {
+    "626": [
+      "fugitive",
+      "international law",
+      "judicial proceedings",
+      "transfer",
+      "interpol",
+      "treaty",
+      "detainee",
+      "deportation",
+      "prosecution",
+      "political asylum"
+    ],
+    "188": [
+      "payment",
+      "invoice",
+      "revenue",
+      "transaction",
+      "cash",
+      "check",
+      "currency",
+      "bill",
+      "receipt",
+      "remittance"
+    ],
+    "750": [
+      "interpret",
+      "interpretation",
+      "rendering",
+      "conversion",
+      "transcription",
+      "paraphrasing",
+      "transformation",
+      "rewording",
+      "rephrasing",
+      "decoding"
+    ],
+    "932": [
+      "refer",
+      "allude",
+      "cite",
+      "note",
+      "bring up",
+      "acknowledge",
+      "point out",
+      "comment",
+      "state",
+      "hint at"
+    ],
+    "632": [
+      "comforting",
+      "soothing",
+      "calming",
+      "consoling",
+      "supportive",
+      "encouraging",
+      "reassuringly",
+      "reliably",
+      "confidently",
+      "trustworthily"
+    ]
+  },
+  "split-3": {
+    "177": [
+      "clasp",
+      "bolt",
+      "screw",
+      "stitch",
+      "zip",
+      "button",
+      "loop",
+      "lace",
+      "rivet",
+      "magnetize"
+    ],
+    "229": [
+      "lock",
+      "unlock",
+      "shut",
+      "seal",
+      "unseal",
+      "clasp",
+      "latch",
+      "snap",
+      "tighten",
+      "loosen"
+    ],
+    "66": [
+      "resignation",
+      "succession",
+      "transition",
+      "handover",
+      "transfer of power",
+      "impeachment",
+      "recall",
+      "defenestration",
+      "dismissal",
+      "abdication"
+    ],
+    "319": [
+      "retaliatory",
+      "punish",
+      "vengeance-seeking",
+      "eye for an eye",
+      "tit for tat",
+      "settle a score",
+      "avengeful",
+      "get revenge",
+      "avengeance",
+      "seek revenge"
+    ],
+    "85": [
+      "coerce",
+      "intimidate",
+      "persuade",
+      "pressure",
+      "tempt",
+      "seduce",
+      "maneuver",
+      "trickery",
+      "charm",
+      "exploit"
+    ]
+  }
+}

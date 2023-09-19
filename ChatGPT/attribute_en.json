@@ -1,0 +1,250 @@
+{
+  "split-0": {
+    "318": [
+      "spoiled",
+      "foul",
+      "decomposed",
+      "moldering",
+      "fermenting",
+      "disintegrating",
+      "deteriorating",
+      "crumbling",
+      "perished",
+      "decaying"
+    ],
+    "220": [
+      "capacity",
+      "volume",
+      "stuffing",
+      "loaded",
+      "topped off",
+      "brimming",
+      "overflowing",
+      "drained",
+      "gorged",
+      "crowded"
+    ],
+    "46": [
+      "reaction",
+      "symptom",
+      "inflammation",
+      "irritation",
+      "discomfort",
+      "respiratory distress",
+      "anaphylaxis",
+      "intolerance",
+      "hypersensitivity",
+      "immunological response"
+    ],
+    "731": [
+      "scandalous",
+      "outrageous",
+      "abhorrent",
+      "unacceptable",
+      "reprehensible",
+      "shameful",
+      "deplorable",
+      "embarrassing",
+      "humiliating",
+      "unseemly"
+    ],
+    "1015": [
+      "trendy",
+      "fashionable",
+      "hip",
+      "stylish",
+      "viral",
+      "buzzworthy",
+      "up-and-coming",
+      "cult favorite",
+      "well-liked",
+      "sought-after"
+    ]
+  },
+  "split-1": {
+    "345": [
+      "demanding",
+      "daunting",
+      "formidable",
+      "grueling",
+      "intense",
+      "laborious",
+      "onerous",
+      "painstaking",
+      "rigorous",
+      "taxing"
+    ],
+    "1000": [
+      "mammoth",
+      "diminutive",
+      "microscopic",
+      "oversized",
+      "teeny",
+      "minuscule",
+      "towering",
+      "compact",
+      "minute",
+      "gargantuan"
+    ],
+    "453": [
+      "beneficial",
+      "helpful",
+      "practical",
+      "convenient",
+      "efficient",
+      "reliable",
+      "versatile",
+      "productive",
+      "benefit",
+      "aid"
+    ],
+    "838": [
+      "eclectic",
+      "myriad",
+      "polymorphic",
+      "pluriform",
+      "mosaic",
+      "distinct",
+      "multitudinous",
+      "distinctive",
+      "omnifarious",
+      "disparate"
+    ],
+    "326": [
+      "adorable",
+      "alluring",
+      "delightful",
+      "enchanting",
+      "enticing",
+      "irresistible",
+      "satisfying",
+      "scrumptious",
+      "succulent",
+      "yummy"
+    ]
+  },
+  "split-2": {
+    "882": [
+      "guest",
+      "hostess",
+      "welcoming",
+      "inviting",
+      "reception",
+      "accommodation",
+      "courtesy",
+      "generosity",
+      "friendliness",
+      "amity"
+    ],
+    "959": [
+      "noisy",
+      "silent",
+      "blaring",
+      "muted",
+      "booming",
+      "hushed",
+      "deafening",
+      "whispered",
+      "thunderous",
+      "faint"
+    ],
+    "685": [
+      "energetic",
+      "dynamic",
+      "engaged",
+      "involved",
+      "participating",
+      "performing",
+      "exerting",
+      "productive",
+      "busy",
+      "working"
+    ],
+    "725": [
+      "Labor force participation",
+      "Underemployment",
+      "Job market",
+      "Job creation",
+      "Job loss",
+      "Unemployment benefits",
+      "Job search",
+      "Job training",
+      "Employment rate",
+      "Job security"
+    ],
+    "601": [
+      "pointed",
+      "edged",
+      "keen",
+      "razor-sharp",
+      "honed",
+      "serrated",
+      "jagged",
+      "barbed",
+      "chiseled",
+      "acicular"
+    ]
+  },
+  "split-3": {
+    "342": [
+      "charming",
+      "aloof",
+      "conscientious",
+      "disagreeable",
+      "considerate",
+      "impulsive",
+      "gallant",
+      "vindictive",
+      "overbearing",
+      "receptive"
+    ],
+    "74": [
+      "hourly",
+      "quarterly",
+      "annualized",
+      "biweekly",
+      "spasmodic",
+      "rhythmical",
+      "cyclical",
+      "continual",
+      "irregular",
+      "persistent"
+    ],
+    "332": [
+      "synergy",
+      "conformity",
+      "consistency",
+      "adaptability",
+      "balance",
+      "integrative",
+      "harmonious",
+      "suitable",
+      "amenable",
+      "cohesive"
+    ],
+    "106": [
+      "conformism",
+      "enforcement",
+      "sanction",
+      "penalty",
+      "abidance",
+      "compliancy",
+      "dissent",
+      "accountability",
+      "forfeit",
+      "irregularity"
+    ],
+    "125": [
+      "proficiency",
+      "skillful",
+      "talented",
+      "accomplished",
+      "competency",
+      "practiced",
+      "seasoned",
+      "skilled in",
+      "aptitude",
+      "dexterity"
+    ]
+  }
+}

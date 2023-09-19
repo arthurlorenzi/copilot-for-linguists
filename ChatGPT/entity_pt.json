@@ -1,0 +1,250 @@
+{
+  "split-0": {
+    "1426": [
+      "escumadeira",
+      "peneira",
+      "rolo de massa",
+      "espátula",
+      "descascador",
+      "ralador",
+      "tigela",
+      "colher de pau",
+      "concha",
+      "tábua de corte"
+    ],
+    "1431": [
+      "boneca",
+      "carrinho",
+      "quebra-cabeça",
+      "bola",
+      "jogo de tabuleiro",
+      "pistola de água",
+      "jogo de construção",
+      "pião",
+      "jogos eletrônicos",
+      "brinquedo de pelúcia"
+    ],
+    "1106": [
+      "ponto de detonação",
+      "ponto de partida",
+      "ponto de disparo",
+      "ponto de ignição",
+      "ponto de explosão",
+      "ponto de acionamento",
+      "ponto de fogo",
+      "ponto de detonação remota",
+      "estação detonadora",
+      "sistema de ignição remota"
+    ],
+    "1181": [
+      "barreira de fogo",
+      "faixa de contenção",
+      "limpeza de área",
+      "queimada controlada",
+      "área protegida",
+      "corte de vegetação",
+      "quebra-fogo",
+      "trincheira antifogo",
+      "espaço defensável",
+      "linha de retenção"
+    ],
+    "1080": [
+      "pessoa civil",
+      "pessoa desarmada",
+      "refugiado",
+      "deslocado interno",
+      "população civil",
+      "testemunha",
+      "vítima inocente",
+      "não-combatente",
+      "pessoal não-militar",
+      "nacional não-combatente"
+    ]
+  },
+  "split-1": {
+    "175": [
+      "distrito federal",
+      "estado",
+      "município",
+      "região administrativa",
+      "comuna",
+      "freguesia",
+      "setor",
+      "território",
+      "província",
+      "departamento"
+    ],
+    "524": [
+      "advogado",
+      "engenheiro",
+      "médico",
+      "professor",
+      "psicólogo",
+      "jornalista",
+      "arquiteto",
+      "veterinário",
+      "contador",
+      "designer"
+    ],
+    "171": [
+      "planalto",
+      "planície",
+      "pântano",
+      "cânion",
+      "brejo",
+      "planície aluvial",
+      "montanha nevada",
+      "falésia",
+      "cume",
+      "penhasco"
+    ],
+    "1184": [
+      "cachorro",
+      "gato",
+      "vaca",
+      "pássaro",
+      "abelha",
+      "macaco",
+      "onça",
+      "borboleta",
+      "aranha",
+      "sapo"
+    ],
+    "337": [
+      "loja de roupas",
+      "restaurante temático",
+      "barbearia",
+      "academia de ginástica",
+      "boutique de moda",
+      "loja de artesanato",
+      "livraria",
+      "cafeteria",
+      "clínica veterinária",
+      "empório"
+    ]
+  },
+  "split-2": {
+    "833": [
+      "governadoria",
+      "prefeitura",
+      "cidade-sede",
+      "distrito-sede",
+      "sede regional",
+      "comarca",
+      "subprefeitura",
+      "departamento governamental",
+      "governo estadual",
+      "governo municipal"
+    ],
+    "1128": [
+      "bairro",
+      "favela",
+      "vila",
+      "gueto",
+      "comunidade",
+      "colônia",
+      "aldeia",
+      "quartier",
+      "região",
+      "arrabalde"
+    ],
+    "960": [
+      "terreno",
+      "propriedade",
+      "fazenda",
+      "chácara",
+      "sítio",
+      "imóvel",
+      "lote",
+      "quintal",
+      "terraplenagem",
+      "construção"
+    ],
+    "656": [
+      "infraestrutura",
+      "base",
+      "sistema",
+      "rede",
+      "estrutura",
+      "conjunto",
+      "meios",
+      "suporte",
+      "instalação",
+      "plataforma"
+    ],
+    "545": [
+      "companheiro(a) de quarto",
+      "colega de apartamento",
+      "vizinho(a) de porta",
+      "condômino(a)",
+      "morador(a)",
+      "residente",
+      "inquilino(a)",
+      "hóspede",
+      "família hospedeira",
+      "coabitante"
+    ]
+  },
+  "split-3": {
+    "1341": [
+      "nadador",
+      "lutador",
+      "corredor",
+      "ciclista",
+      "ginasta",
+      "saltador",
+      "velocista",
+      "atleta olímpico",
+      "mesatenista",
+      "pentatleta"
+    ],
+    "169": [
+      "sótão",
+      "saguão",
+      "sala de estar",
+      "sala de jantar",
+      "área de serviço",
+      "sala de TV",
+      "quintal",
+      "terraço",
+      "varanda gourmet",
+      "escada caracol"
+    ],
+    "431": [
+      "procuração",
+      "alvará",
+      "recibo",
+      "contrato de trabalho",
+      "certidão",
+      "boleto",
+      "nota fiscal",
+      "termo de compromisso",
+      "ficha cadastral",
+      "registro"
+    ],
+    "176": [
+      "fazenda",
+      "chácara",
+      "sítio",
+      "aeroporto",
+      "cemitério",
+      "cidade",
+      "vila",
+      "prédio",
+      "complexo",
+      "bairro"
+    ],
+    "493": [
+      "italiano",
+      "argentino",
+      "portenho",
+      "pernambucano",
+      "cearense",
+      "paulistano",
+      "carioca da gema",
+      "mineiro",
+      "paraense",
+      "baiano"
+    ]
+  }
+}

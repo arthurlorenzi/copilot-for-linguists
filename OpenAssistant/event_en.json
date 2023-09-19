@@ -1,0 +1,247 @@
+{
+  "split-0": {
+    "265": [
+      "Gunman",
+      "Shooter",
+      "Rifleman",
+      "Marksman",
+      "Pistolero",
+      "Arms",
+      "Armaments",
+      "Artillery",
+      "Munitions",
+      "Warfare"
+    ],
+    "207": [
+      "perform",
+      "act upon",
+      "influence",
+      "manipulate",
+      "modify",
+      "impact",
+      "change",
+      "alter",
+      "transform",
+      "shape",
+      "control"
+    ],
+    "933": [
+      "highlight",
+      "illustrate",
+      "represent",
+      "disclose",
+      "expose",
+      "uncover",
+      "showcase",
+      "feature",
+      "introduce",
+      "display"
+    ],
+    "786": [
+      "lend",
+      "hire",
+      "rent-out",
+      "let",
+      "sublet",
+      "borrow",
+      "leverage",
+      "trade",
+      "swap",
+      "mortgage"
+    ],
+    "380": [
+      "Acquire",
+      "Accept",
+      "Apprehend",
+      "Assimilate",
+      "Catch",
+      "Gain",
+      "Obtain",
+      "Perceive",
+      "Receive",
+      "Take In",
+      "Welcome"
+    ]
+  },
+  "split-1": {
+    "234": [
+      "architect",
+      "foundation",
+      "structural engineering",
+      "steel framework",
+      "window installation",
+      "interior design",
+      "renovation",
+      "roof repair",
+      "plumbing system",
+      "landscaping",
+      "home improvement"
+    ],
+    "372": [
+      "Revolutionary",
+      " trailblazing ",
+      "groundbreaking",
+      "revelatory",
+      "unprecedented",
+      "novel",
+      "cutting-edge",
+      "transformative",
+      "game-changing",
+      "creative",
+      "visionary"
+    ],
+    "243": [
+      "kitchen",
+      "chef",
+      "culinary arts",
+      "recipe",
+      "seasoning",
+      "spices",
+      "utensils",
+      "stove",
+      "oven",
+      "cooking",
+      "gourmet"
+    ],
+    "253": [
+      "create",
+      "composition",
+      "writing",
+      "essay",
+      "article",
+      "story",
+      "book",
+      "document",
+      "manual",
+      "handout",
+      "novel"
+    ],
+    "238": [
+      "chew",
+      "bolus",
+      "digest",
+      "regurgitate",
+      "absorb",
+      "defecate",
+      "fart",
+      "vomit",
+      "metabolize",
+      "assimilate"
+    ]
+  },
+  "split-2": {
+    "626": [
+      "transfer",
+      "handover",
+      "yielding",
+      "surrendering",
+      "deportation",
+      "removal",
+      "turning over",
+      "submitting",
+      "giving in",
+      "ceding",
+      "relinquishing"
+    ],
+    "188": [
+      "buyback",
+      "commerce",
+      "compensation",
+      "conversion",
+      "currency",
+      "discount",
+      "exchange",
+      "payment",
+      "purchase",
+      "revenue"
+    ],
+    "750": [
+      "interpret",
+      "render",
+      "convert",
+      "transform",
+      "adapt",
+      "mediate",
+      "communicate",
+      "explain",
+      "elucidate",
+      "describe"
+    ],
+    "932": [
+      "references",
+      "refers",
+      "cites",
+      "quotes",
+      "acknowledges",
+      "alludes",
+      "notices",
+      "mentions",
+      "states",
+      "recalls"
+    ],
+    "632": [
+      "calm",
+      "comfortable",
+      "secure",
+      "stable",
+      "solid",
+      "safe",
+      "peaceful",
+      "trustworthy",
+      "supportive",
+      "soothing",
+      "settling"
+    ]
+  },
+  "split-3": {
+    "177": [
+      "bind",
+      "clasp",
+      "couple",
+      "meld",
+      "interlock",
+      "fasten",
+      "latch",
+      "bond",
+      "[p]hooligan",
+      "affix",
+      "splice"
+    ],
+    "229": [
+      "lock",
+      "secure",
+      "bolt",
+      "latch",
+      "barrier",
+      "snap",
+      "hook",
+      "clasp",
+      "clip",
+      "strap"
+    ],
+    "66": [
+      "Eviction",
+      "Removal",
+      "Transition",
+      "Succession",
+      "Replacement",
+      "Ascension",
+      "Descent",
+      "Take-Over",
+      "Hand Over",
+      "Appointment"
+    ],
+    "319": ["reprisal", "retaliatory", "punitive", "chastising", "seeking justice", "condemning", "judgmental", "resentful", "relentless", "ruthless"],
+    "85": [
+      "Entice",
+      "Coerce",
+      "Intimidate",
+      "Threaten",
+      "Bribe",
+      "Persuade",
+      "Cajole",
+      "Trick",
+      "Duplicate"
+    ]
+  }
+}

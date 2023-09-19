@@ -1,0 +1,166 @@
+{
+  "split-0": {
+    "1098": [
+      "screen",
+      "dashboard",
+      "signage",
+      "kiosk",
+      "billboard",
+      "ticker",
+      "scoreboard",
+      "menu",
+      "display case",
+      "information panel"
+    ],
+    "1104": [
+      "explosive device",
+      "trigger mechanism",
+      "detonator",
+      "wireless signal",
+      "cellular device",
+      "explosion",
+      "bomb disposal",
+      "IED threat",
+      "blast radius",
+      "terrorism"
+    ],
+    "1181": [
+      "fuel break",
+      "defensible space",
+      "fireguard",
+      "perimeter zone",
+      "fire plow",
+      "controlled burn",
+      "backfire line",
+      "fire barrier",
+      "vegetation clearing",
+      "fire trench"
+    ]
+  },
+  "split-1": {
+    "123": [
+      "tuxedo",
+      "saree",
+      "fedora",
+      "kimono",
+      "dhoti",
+      "sunglasses",
+      "pashmina",
+      "blouse",
+      "ascot",
+      "gloves"
+    ],
+    "157": [
+      "observatory",
+      "planetarium",
+      "observatory",
+      "aqueduct",
+      "power plant",
+      "factory",
+      "skyscraper",
+      "radio tower",
+      "telephone exchange",
+      "television station"
+    ],
+    "272": [
+      "catalog",
+      "document",
+      "encyclopedia",
+      "journalism",
+      "manual",
+      "memo",
+      "monograph",
+      "notebook",
+      "thesis",
+      "tome"
+    ],
+    "395": [
+      "bayonet",
+      "brass knuckles",
+      "claymore",
+      "dagger",
+      "flail",
+      "halberd",
+      "javelin",
+      "mace",
+      "nunchaku",
+      "sai"
+    ],
+    "398": [
+      "hovercraft",
+      "motorcycle",
+      "snowmobile",
+      "rickshaw",
+      "bulldozer",
+      "forklift",
+      "jetski",
+      "trailer",
+      "sailboat",
+      "skateboard"
+    ]
+  },
+  "split-2": {
+    "656": [
+      "network",
+      "system",
+      "facility",
+      "platform",
+      "grid",
+      "backbone",
+      "framework",
+      "backbone",
+      "apparatus",
+      "structure"
+    ],
+    "717": [
+      "clasp",
+      "hook",
+      "snap",
+      "velcro",
+      "toggle",
+      "magnet",
+      "tie",
+      "latch",
+      "pin",
+      "zip tie"
+    ],
+    "1085": [
+      "pressure-sensitive plate",
+      "trip-wire",
+      "spring-loaded device",
+      "disguised bomb",
+      "hidden explosive",
+      "booby trap",
+      "explosive trap",
+      "victim-triggered bomb",
+      "IED",
+      "improvised explosive device"
+    ],
+    "1156": [
+      "lock",
+      "access code",
+      "security token",
+      "PIN",
+      "fingerprint",
+      "biometric scan",
+      "smartphone app",
+      "remote control",
+      "door opener",
+      "electronic key"
+    ]
+  },
+  "split-3": {
+    "431": [
+      "notarized",
+      "endorsement",
+      "authentication",
+      "clearance",
+      "application",
+      "registration",
+      "permit",
+      "license",
+      "certification",
+      "waiver"
+    ]
+  }
+}

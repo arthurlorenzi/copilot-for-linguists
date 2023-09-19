@@ -1,0 +1,262 @@
+{
+  "split-0": {
+    "1426": [
+      "taça",
+      "peneira",
+      "panelinha",
+      "caneca",
+      "pote",
+      "pingente",
+      "batuca",
+      "varal",
+      "maca",
+      "talha"
+    ],
+    "1431": [
+      "jogo",
+      "brinquedo",
+      "amigo-de-pelúcia",
+      "bebê",
+      "criança",
+      "menino",
+      "garoto",
+      "pega-lelê",
+      "passatempo",
+      "educativo",
+      "divertido"
+    ],
+    "1106": [
+      "ponto de atirar",
+      "ponto de fogo",
+      "ponto de disparo",
+      "pela frente",
+      "ponto do atrito",
+      "trampa para o exército",
+      "explosão controlado",
+      "pode ser perigoso",
+      "bomba caseira",
+      "coisa boa da polícia"
+    ],
+    "1181": [
+      "corridoio de incêndio",
+      "barragem de incêndio",
+      "campo limpo",
+      "redes de contenção",
+      "frequência espacial de proteção contra incêndios",
+      "ciclagem prescrita",
+      "queima controlada",
+      "descarte vegetal",
+      "retificação da vegetação",
+      "remanejo florestal",
+      "margem de segurança"
+    ],
+    "1080": [
+      "inocente",
+      "neutro",
+      "desarmado",
+      "pacífico",
+      "vulnerável",
+      "defenseless",
+      "inoffensive",
+      "inelegível",
+      "distante",
+      "ingênuo"
+    ]
+  },
+  "split-1": {
+    "175": [
+      "município",
+      "estado",
+      "comarca",
+      "distrito federal",
+      "unidade da federação",
+      "prefeitura",
+      "palácio do planalto",
+      "presidência da república",
+      "tribunal de justiça",
+      "delegacia",
+      "subchefia de polícia"
+    ],
+    "524": [
+      "ferreiro",
+      "operário mecânico",
+      "pintora",
+      "advogada",
+      "contador",
+      "engenheiro de software",
+      "carrasco",
+      "zoológica",
+      "educadora",
+      "jardineira",
+      "carvoeiro"
+    ],
+    "171": [
+      "praia",
+      "rio",
+      "regiao fluvial",
+      "ceara",
+      "planeta",
+      "superficie terrestre",
+      "areais",
+      "bacias sedimentares",
+      "zona tectonica ativa",
+      "paraiso tropical",
+      "floresta amazonia"
+    ],
+    "1184": [
+      "macaco",
+      "aracuã",
+      "guaxinim",
+      "ceboia",
+      "ursinho polar",
+      "carpa koi",
+      "grafinha",
+      "cavalo-da-prata",
+      "corvo",
+      "ave-do-paraíso"
+    ],
+    "337": [
+      "negociador",
+      "comércio eletrônico",
+      "loja virtual",
+      "distribuidora",
+      "varejista",
+      "importadora",
+      "fabricante",
+      "banca de varejo",
+      "financiamento pessoalizado",
+      "empresa startups",
+      "incubadora de negócios"
+    ]
+  },
+  "split-2": {
+    "833": [
+      "prefeitura",
+      "governo municipal",
+      "capital provincial",
+      "palácio do poder executivo",
+      "assembleia legislativa",
+      "parlamento",
+      "vereadoria regional",
+      "secretaria de estado",
+      "concentração bureaucrática",
+      "sede partidária"
+    ],
+    "1128": [
+      "bairro",
+      "comunidade",
+      "conjunto",
+      "região",
+      "zona",
+      "distrito",
+      "município",
+      "estado",
+      "comarca",
+      "ilha",
+      "parte"
+    ],
+    "960": [
+      "casa",
+      "quintal",
+      "fazenda",
+      "chácara",
+      "mansão",
+      "prédio de apartamentos",
+      "condomínio fechado",
+      "terra sem construção",
+      "prédio abandonado",
+      "bairro",
+      "bloco"
+    ],
+    "656": [
+      "estrutura",
+      "infraestrutura",
+      "superfície de gesto",
+      "marco legal",
+      "equipamento",
+      "conjunto",
+      "instalação",
+      "rede",
+      "tecnologia da informação",
+      "ambiente"
+    ],
+    "545": [
+      "colega de quarto",
+      "empregador",
+      "condomino",
+      "morador",
+      "parente próximo",
+      "conhecido",
+      "conselho",
+      "funcionário",
+      "vizinho",
+      "freguesia",
+      "cliente"
+    ]
+  },
+  "split-3": {
+    "1341": [
+      "Esporteista por modalidade",
+      "Lutador de artes marciais",
+      "Ciclista de pista",
+      "Surfista de ondas grandes",
+      "Goleiro de futebol",
+      "Jogador de vôlei de praia",
+      "Corredor de longa distância",
+      "Paraquedista",
+      "Dançarina olímpica",
+      "Arqueira compound"
+    ],
+    "169": [
+      "escadaria",
+      "andar",
+      "mezânino",
+      "entrada",
+      "área de espera",
+      "sala de convivência",
+      "depósito",
+      "armário do zelador",
+      "espaço para manutenção",
+      "anexo",
+      "porão "
+    ],
+    "431": [
+      "contrato de compra e venda",
+      "recibo",
+      "depósito em caixa de poupança",
+      "título de propriedade de ações",
+      "patente",
+      "registro de marca registrada",
+      "alvará de funcionamento",
+      "licença de casamento",
+      "decreto de divórcio",
+      "contrato de trabalho"
+    ],
+    "176": [
+      "banheiro",
+      "loja",
+      "estação de gasolina",
+      "praça de alimentação",
+      "supermercado",
+      "clube de futebol",
+      "estádio esportivo",
+      "boliche",
+      "bar",
+      "boate",
+      "cria em parque industrial",
+      "matadouro municipal"
+    ],
+    "493": [
+      "brasileiro",
+      "paulista",
+      "catarinense",
+      "fluminense",
+      "paranaense",
+      "gaúcho",
+      "piauiano",
+      "baiano",
+      "amazonense",
+      "capixaba"
+    ]
+  }
+}

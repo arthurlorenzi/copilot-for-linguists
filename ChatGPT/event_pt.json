@@ -1,0 +1,250 @@
+{
+  "split-0": {
+    "265": [
+      "alvo",
+      "arma",
+      "atirador",
+      "balística",
+      "cartucho",
+      "disparar",
+      "mira",
+      "pistola",
+      "recarregar",
+      "tiro"
+    ],
+    "207": [
+      "afetar",
+      "alterar",
+      "conduzir",
+      "danificar",
+      "encantar",
+      "influenciar",
+      "manipular",
+      "modificar",
+      "prejudicar",
+      "transformar"
+    ],
+    "933": [
+      "apontar",
+      "assinalar",
+      "identificar",
+      "denunciar",
+      "mostrar",
+      "revelar",
+      "designar",
+      "sinalizar",
+      "nomear",
+      "destacar"
+    ],
+    "786": [
+      "alugar",
+      "arrendar",
+      "ceder",
+      "conceder",
+      "dar em locação",
+      "empréstimo",
+      "locar",
+      "subalugar",
+      "subarrendar",
+      "transferir temporariamente"
+    ],
+    "380": [
+      "receber",
+      "adquirir",
+      "obter",
+      "conquistar",
+      "pegar",
+      "ganhar",
+      "conseguir",
+      "recepcionar",
+      "capturar",
+      "tomar posse"
+    ]
+  },
+  "split-1": {
+    "234": [
+      "construção",
+      "edificação",
+      "montagem",
+      "erigir",
+      "construir",
+      "montar",
+      "ajuntar",
+      "juntar",
+      "erguer",
+      "levantar"
+    ],
+    "372": [
+      "inovador",
+      "criação",
+      "criatividade",
+      "descoberta",
+      "desbravador",
+      "inovação",
+      "originalidade",
+      "pioneiro",
+      "primeiro",
+      "proeza"
+    ],
+    "243": [
+      "cozinhar",
+      "assar",
+      "fritar",
+      "grelhar",
+      "refogar",
+      "cozer",
+      "temperar",
+      "ensopar",
+      "escalfar",
+      "empapar"
+    ],
+    "253": [
+      "escrever",
+      "redigir",
+      "compor",
+      "transcrever",
+      "imprimir",
+      "digitar",
+      "rascunhar",
+      "grifar",
+      "marcar",
+      "anotar"
+    ],
+    "238": [
+      "engolir",
+      "sorver",
+      "mastigar",
+      "degustar",
+      "provar",
+      "comer",
+      "beber",
+      "ingerir",
+      "sugar",
+      "tirar o sabor"
+    ]
+  },
+  "split-2": {
+    "626": [
+      "extradição",
+      "extraditar",
+      "extraditando",
+      "extraditado",
+      "país requerente",
+      "país solicitante",
+      "país de origem",
+      "refúgio político",
+      "tratado internacional",
+      "corte internacional"
+    ],
+    "188": [
+      "pagamento",
+      "fatura",
+      "receita",
+      "transação",
+      "dinheiro",
+      "cheque",
+      "moeda",
+      "boleto",
+      "recibo",
+      "remessa"
+    ],
+    "750": [
+      "tradução",
+      "tradutor",
+      "interpretar",
+      "versão",
+      "interpretação",
+      "traduzir",
+      "transcrição",
+      "adaptação",
+      "vernáculo",
+      "decifrar"
+    ],
+    "932": [
+      "mencionar",
+      "referir",
+      "citare",
+      "notar",
+      "destacar",
+      "comentar",
+      "apontar",
+      "informar",
+      "aludir",
+      "enfatizar"
+    ],
+    "632": [
+      "tranquilizar",
+      "segurança",
+      "conforto",
+      "calmaria",
+      "confiança",
+      "alívio",
+      "paz",
+      "reconforto",
+      "apaziguar",
+      "serenidade"
+    ]
+  },
+  "split-3": {
+    "177": [
+      "prender",
+      "fixar",
+      "amarrar",
+      "grampear",
+      "colar",
+      "grudar",
+      "pregar",
+      "atrelar",
+      "engatar",
+      "juntar"
+    ],
+    "229": [
+      "abotoar",
+      "fechar",
+      "afivelar",
+      "tampar",
+      "zíper",
+      "laçar",
+      "desabotoar",
+      "desamarrar",
+      "destampar",
+      "desenroscar"
+    ],
+    "66": [
+      "golpe de estado",
+      "substituição",
+      "nomeação",
+      "renúncia",
+      "impeachment",
+      "suceder",
+      "eleito",
+      "governo de transição",
+      "governança",
+      "autoridade"
+    ],
+    "319": [
+      "vingança",
+      "revanche",
+      "retaliação",
+      "vingador",
+      "acerto de contas",
+      "castigo",
+      "represália",
+      "desforra",
+      "desaforo",
+      "vingar"
+    ],
+    "85": [
+      "coagir",
+      "chantagear",
+      "enganar",
+      "subornar",
+      "ludibriar",
+      "iludir",
+      "seduzir",
+      "pressionar",
+      "fazer a cabeça de alguém",
+      "atrair com falsas promessas"
+    ]
+  }
+}

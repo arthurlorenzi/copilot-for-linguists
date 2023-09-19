@@ -1,0 +1,262 @@
+{
+  "split-0": {
+    "1426": [
+      "panther",
+      "fork",
+      "spoon",
+      "bowl",
+      "chair",
+      "cup",
+      "table",
+      "kettle",
+      "mug",
+      "plate",
+      "pot"
+    ],
+    "1431": [
+      "doll",
+      "toy car",
+      "building blocks",
+      "lego",
+      "teddy bear",
+      "train set",
+      "barbie doll",
+      "action figure",
+      "playset",
+      "stuffed animal",
+      "game"
+    ],
+    "1106": [
+      "trigger",
+      "activation",
+      "release point",
+      "initiator",
+      "launch site",
+      "detonator position",
+      "blast zone",
+      "ignition point",
+      "action point",
+      "booby trap",
+      "explosives control"
+    ],
+    "1181": [
+      "bulldozer",
+      "ditch",
+      "fuel reduction",
+      "hazard reduction",
+      "slash and burn",
+      "defensible space",
+      "wildfire management",
+      "prescribed burning",
+      "controlled burn",
+      "vegetation clearance",
+      "brush clearance"
+    ],
+    "1080": [
+      "innocent",
+      "neutral",
+      "unarmed",
+      "peaceful",
+      "vulnerable",
+      "helpless",
+      "harmless",
+      "ineligible",
+      "oblivious",
+      "ignorant"
+    ]
+  },
+  "split-1": {
+    "175": [
+      "region",
+      "state",
+      "canton",
+      "prefecture",
+      "emirate",
+      "zone",
+      "province",
+      "department",
+      "administrative unit",
+      "autonomous region",
+      "protectorate"
+    ],
+    "524": [
+      "coffee roaster",
+      "cupcake baker",
+      "meat cutter",
+      "barista",
+      "mortician",
+      "weaver",
+      "metalsmith",
+      "lumberjack",
+      "makeup artist",
+      "costume designer",
+      "prop master"
+    ],
+    "171": [
+      "Gorge",
+      "Cave system",
+      "Batholith",
+      "Wildlife refuge",
+      "Hot spring",
+      "Rift valley",
+      "Submarine vents",
+      "Geothermal field",
+      "Buttes and mesas",
+      "Badlands",
+      "Sinkhole"
+    ],
+    "1184": [
+      "iguana",
+      "alligator",
+      "wallaby",
+      "lemur",
+      "polar bear",
+      "koi fish",
+      "gorilla",
+      "llama",
+      "pelican",
+      "myna bird"
+    ],
+    "337": [
+      "online retailer",
+      "brick and mortar business",
+      "sole proprietorship",
+      "food truck",
+      "pop up store",
+      "homebased business",
+      "virtual assistant",
+      "digital marketplace",
+      "startup incubator",
+      "e-commerce platform"
+    ]
+  },
+  "split-2": {
+    "833": [
+      "city hall",
+      "municipal government",
+      "provincial capital",
+      "statehouse",
+      "government center",
+      "legislative building",
+      "parliament house",
+      "seat of power",
+      "executive office",
+      "bureaucratic hub",
+      "political headquarters"
+    ],
+    "1128": [
+      "neighborhood",
+      "community",
+      "settlement",
+      "region",
+      "zone",
+      "district",
+      "province",
+      "state",
+      "territory",
+      "canton",
+      "island"
+    ],
+    "960": [
+      "home",
+      "farm",
+      "ranch",
+      "castle",
+      "manor",
+      "apartment building",
+      "condo complex",
+      "vacant lot",
+      "abandoned house",
+      "city block",
+      "neighborhood"
+    ],
+    "656": [
+      "system",
+      "facility",
+      "platform",
+      "foundation",
+      "network",
+      "structure",
+      "environment",
+      "framework",
+      "architecture",
+      "setup"
+    ],
+    "545": [
+      "flatmate",
+      "landlord",
+      "tenant",
+      "homeowner",
+      "guest",
+      "boarder",
+      "squatter",
+      "visitor",
+      "coworker",
+      "couchsurfer"
+    ]
+  },
+  "split-3": {
+    "1341": [
+      "taekwondo dancer",
+      "racecar driver",
+      "chess player",
+      "checkers player",
+      "video game competitor",
+      "crossfit athlete",
+      "ultimate frisbee player",
+      "pickleball player",
+      "drag racer"
+    ],
+    "169": [
+      "stairwell",
+      "landing",
+      "mezzanine",
+      "lobby",
+      "reception",
+      "waiting room",
+      "common room",
+      "storage space",
+      "janitor's closet",
+      "maintainer's workspace",
+      "basement"
+    ],
+    "431": [
+      "bill of sale",
+      "receipt",
+      "deposit slip",
+      "stock certificate",
+      "patent",
+      "trademark registration",
+      "building permit",
+      "marriage license",
+      "divorce decree",
+      "labor contract"
+    ],
+    "176": [
+      "warehouse",
+      "library",
+      "marketplace",
+      "playground",
+      "stadium",
+      "cinema",
+      "cafe",
+      "salon",
+      "tavern",
+      "hotel",
+      "inn"
+    ],
+    "493": [
+      "chinese",
+      "japanese",
+      "korean",
+      "african",
+      "afro-caribbean",
+      "middle eastern",
+      "scandinavian",
+      "latino",
+      "canadian",
+      "israeli",
+      "palestinian"
+    ]
+  }
+}

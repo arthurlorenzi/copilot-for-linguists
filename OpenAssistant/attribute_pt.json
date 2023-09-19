@@ -1,0 +1,259 @@
+{
+  "split-0": {
+    "318": [
+      "podre",
+      "rancido",
+      "podrescente",
+      "alto de podre",
+      "podrido",
+      "podrezinhos",
+      "descompondo",
+      "azedo",
+      "espedaçado",
+      "putrefato",
+      "doente-seco"
+    ],
+    "220": [
+      "cheio",
+      "vazio",
+      "chato",
+      "pé no ar",
+      "descarado",
+      "infindo",
+      "tampão",
+      "gordo",
+      "farto",
+      "repleto",
+      "cheiote"
+    ],
+    "46": [
+      "hiperalergico",
+      "alergias",
+      "intolero",
+      "reactivo",
+      "hiporesponsivo",
+      "inflamado",
+      "irritavel",
+      "inflamatório",
+      "intenso",
+      "afetado",
+      "provocativo"
+    ],
+    "731": [
+      "vergonhoso",
+      "irresponsável",
+      "causador",
+      "impróprio",
+      "escancarado",
+      "turbador",
+      "iraçivel",
+      "condenável",
+      "repugante"
+    ],
+    "1015": [
+      "Conhecido",
+      "Batizado de Estrelas",
+      "Consagrado",
+      "Top da Moda",
+      "Repercutido em Todos os Cantos do País",
+      "Nome Certo para o Sucesso",
+      "Comovente",
+      "Amor à Primeira Vista",
+      "Confiavel como um Mapa Direções",
+      "Sem Medir Bebidas ou Prisioneiro",
+      "Melhor que a Cerveja Fria"
+    ]
+  },
+  "split-1": {
+    "345": [
+      "exaurcente",
+      "harroinadeiro",
+      "agnóstico",
+      "grosseiro",
+      "agostoso",
+      "canção",
+      "arraigada",
+      "pesada",
+      "teimosa",
+      "esquiva"
+    ],
+    "1000": [
+      "gigantesco",
+      "emérito",
+      "monumental",
+      "minusculo",
+      "patetico",
+      "fantomático",
+      "magnífico",
+      "epicamente",
+      "avassalador",
+      "sublime",
+      "soberbo"
+    ],
+    "453": [
+      "util",
+      "útil",
+      "prático",
+      "aplicado",
+      "eficiente",
+      "adequado",
+      "funcional",
+      "cómodo",
+      "prazeroso",
+      "solucionador"
+    ],
+    "838": [
+      "Diverso",
+      "Homogêneo",
+      "Várias formas",
+      "Pluralidade",
+      "Iguais",
+      "Heterodoxo",
+      "Etnicamente diverso",
+      "Igualdade de oportunidades",
+      "Cultura mista",
+      "Multiculturalismo"
+    ],
+    "326": [
+      "excelente",
+      "ótimo",
+      "impressionante",
+      "objeto de desejo",
+      "modelo para todos os modelos",
+      "maravilha",
+      "uma joia",
+      "distinto",
+      "reflexivo",
+      "que o mundo precisa"
+    ]
+  },
+  "split-2": {
+    "882": [
+      "alegria",
+      "carinho",
+      "cooperativismo",
+      "convivialidade",
+      "cordialidade",
+      "cuidado",
+      "doçura",
+      "festas",
+      "feliz",
+      "festa"
+    ],
+    "959": [
+      "baixo",
+      "ricocheteado",
+      "forte",
+      "suave",
+      "calmo",
+      "tépido",
+      "umbrío",
+      "ruidoso",
+      "alto",
+      "sombrio",
+      "arrastão"
+    ],
+    "685": [
+      "em atividade",
+      "enérgico",
+      "aterrado",
+      "produtivo",
+      "trabalhando arduamente",
+      "próximo",
+      "metodista",
+      "consecratado",
+      "eficiente",
+      "motivado"
+    ],
+    "725": [
+      "taxas de desemprego",
+      "nível de desemprego",
+      "parcela do desempregado na força de trabalho",
+      "índice de desemprego",
+      "proporção de desempregados",
+      "quantidade de desempregados",
+      "percentual de desempregados",
+      "característica da economia",
+      "relação entre o emprego e a pobreza",
+      "medida de desenvolvimento econômico"
+    ],
+    "601": [
+      "agudo",
+      "afilado",
+      "afiado",
+      "aberto",
+      "áspero",
+      "romboidal",
+      "fino",
+      "mosqueado",
+      "ferroso",
+      "ardente"
+    ]
+  },
+  "split-3": {
+    "342": [
+      "simpatia",
+      "amabilidade",
+      "arrogância",
+      "brutalidade",
+      "espontaneidade",
+      "galanteria",
+      "obstinação",
+      "orgulho",
+      "preconceito",
+      "vanaglorioso"
+    ],
+    "74": [
+      "semanalmente",
+      "mensalmente",
+      "bianualmente",
+      "trissemanamente",
+      "hexaneunacional",
+      "quinzenalmente",
+      "sexagésimo",
+      "cadencamente",
+      "trienalmente",
+      "esporádico",
+      "periódicamente"
+    ],
+    "332": [
+      "adequado",
+      " compatíveis",
+      "congrúidos",
+      "armónicos",
+      "relacionados",
+      "respeitadores",
+      "sem inconciliáveis diferenças",
+      "discordantes",
+      "incompatíveis",
+      "desarmônicos",
+      "sem afinidade"
+    ],
+    "106": [
+      "aceitar",
+      "atar",
+      "concordar",
+      "executar",
+      "fornos",
+      "implementar",
+      "justificar",
+      "mandatory",
+      "não satisfaz os requerimentos",
+      "parecer",
+      "respeitar"
+    ],
+    "125": [
+      "capaz",
+      "competente",
+      "especialista",
+      "hábil",
+      "profissional",
+      "mestre",
+      "treinado",
+      "preparado",
+      "aprendeu",
+      "dotado",
+      "apto"
+    ]
+  }
+}

@@ -1,7 +1,6 @@
 .env
+.ipynb_checkpoints/
 ChatGPT.zip
 FN+.zip
 lus.csv
-/ChatGPT
 /FN+
-/HF
